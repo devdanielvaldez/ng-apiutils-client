@@ -1,0 +1,30 @@
+{
+  "name": "ng-apiutils-client",
+  "version": "0.0.1",
+  "description": "ng-apiutils-client provides everyday functionality for web application development.",
+  "keywords": [
+      "ng-apiutils-client",
+      "ng2",
+      "angular-client",
+      "client",
+      "angular",
+      "angular2",
+      "api",
+      "security",
+  ],
+  "license": "MIT",
+  "author": "Daniel Valdez <hello@daniel-valdez.com> (https://github.com/devdanielvaldez)",
+  "homepage": "https://apiutilsdoc.vercel.app/",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/devdanielvaldez/apiutils-client"
+  },
+  "peerDependencies": {
+    "@angular/common": "^15.2.0",
+    "@angular/core": "^15.2.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false
+}
